@@ -7,7 +7,6 @@
      *Using project management tools to track progress.
      *Regularly communicating with the team to address issues early.
      *Prioritizing tasks and managing resources effectively.
-
    Agile methodology
       Agile is a flexible and iterative approach to software development and project management. It emphasizes collaboration, customer feedback, and small, rapid releases to improve and evolve    the product 
       continuously.
